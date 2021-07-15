@@ -40,4 +40,7 @@ describe('Inbox', () => {
         const message = await methods.message().call();
         assert.strictEqual(message, test_message);
     })
+
 });
+
+https://rinkeby.infura.io/v3/1210400c89b94e5e845dc3f00bf181eb
